@@ -1,0 +1,40 @@
+#用例1
+-
+ interfaceName: 首屏-考试数据接口
+ url: http://stupad-stre****
+ headers: {
+  'Content-Type': 'application/json',
+  'requestid': '021618985865',
+  'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI4OTg2MyIsInN5c3RlbUlkIjoiODE5NTEwNTU3NDEiLCJvcmdJZCI6IjgwIiwidGltZXN0YW1wIjoiMTYxODk4NTcwODkyOCJ9.rTSoq0rwvCcHNLXiwKCa76_Vw_i926BuMoFrl1Tv0Q0'
+ }
+ data: {
+  "type": 1
+ }
+
+
+#用例2
+-
+ interfaceName: 首屏-考试数据接口
+ url: http://stupad-stres****
+ headers: {
+  'Content-Type': 'application/json',
+  'requestid': '021618985865',
+  'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI4OTg2MyIsInN5c3RlbUlkIjoiODE5NTEwNTU3NDEiLCJvcmdJZCI6IjgwIiwidGltZXN0YW1wIjoiMTYxODk4NTcwODkyOCJ9.rTSoq0rwvCcHNLXiwKCa76_Vw_i926BuMoFrl1Tv0Q0'
+ }
+ data: {
+  "type": 2
+ }
+
+
+#用例3
+-
+ interfaceName: 首屏-考试数据接口
+ url: http://stupad-str****
+ headers: {
+  'Content-Type': 'application/json',
+  'requestid': '021618985865',
+  'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI4OTg2MyIsInN5c3RlbUlkIjoiODE5NTEwNTU3NDEiLCJvcmdJZCI6IjgwIiwidGltZXN0YW1wIjoiMTYxODk4NTcwODkyOCJ9.rTSoq0rwvCcHNLXiwKCa76_Vw_i926BuMoFrl1Tv0Q0'
+ }
+ data: {
+  "type": 3
+ }
