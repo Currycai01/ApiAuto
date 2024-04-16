@@ -82,6 +82,6 @@ class TestRequest():
     '''
 
     @allure.testcase('测试造数')
-    @pytest.mark.parametrize('name',testdata())
-    def test_print(self,name):
-        print(name)
+    @pytest.mark.parametrize('testname',testdata())
+    def test_print(self,testname):
+        print(testname)
